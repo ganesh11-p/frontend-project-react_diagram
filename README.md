@@ -91,6 +91,10 @@ src
 * **App.js** – Root React component
 * **index.js** – Application entry point
 
+### ScreenShot
+
+![Dashboard Screenshot](./screenshot/dashboard.png)
+
 ---
 
 ## Installation and Setup
